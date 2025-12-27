@@ -50,12 +50,19 @@ I am currently working on **Game Server WebAdmins** and creating useful automati
 
 ---
 
+### 🏆 Achievements
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaron-devop&theme=flat&no-frame=true&margin-w=15" alt="aaron-devop" />
+</a>
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-devop&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-devop&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aaron-devop&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron-devop&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-devop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
 </div>
