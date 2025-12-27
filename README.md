@@ -12,6 +12,9 @@
 <a href="https://github.com/aaron-devop">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://darkcode.hu/">
+  <img src="https://img.shields.io/badge/Website-Darkcore-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -50,19 +53,7 @@ I am currently working on **Game Server WebAdmins** and creating useful automati
 
 ---
 
-### 🏆 Achievements
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaron-devop&theme=flat&no-frame=true&margin-w=15" alt="aaron-devop" />
-</a>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaron-devop&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-devop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 </div>
