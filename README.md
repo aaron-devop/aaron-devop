@@ -21,12 +21,53 @@
 
 <br/><br/>
 
-I am currently working on **Game Server WebAdmins** and creating useful automation scripts for the community. My goal is to make server management easier and more secure.
+I am currently working on **Game Server WebAdmins** and creating enterprise-grade automation scripts. My goal is to make server management easier, more secure, and fully automated.
 
-🌱 **I’m currently learning:** Python, C#, and Advanced DevOps practices.  
-🔭 **I’m currently working on:** [VPS Sentinel](https://github.com/aaron-devop/vps-sentinel-v1.0) and other administration tools.
+🌱 **I’m currently learning:** Advanced Python Automation, DevOps Pipelines, C#.
 
 <br/>
+
+---
+
+## 🚀 KIEMELT PROJEKTEK / FEATURED WORK
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/aaron-devop/aegis-automation">
+        <img src="https://img.shields.io/badge/🛡️%20AEGIS-Automation-blue?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <strong>Self-Healing System</strong>
+      <br/>
+      Enterprise-szintű öngyógyító rendszer, amely automatikusan újraindítja a leállt szolgáltatásokat és Discord riasztást küld.
+      <br/><br/>
+      <code>Python</code> <code>Systemd</code> <code>Discord API</code>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/aaron-devop/terminus-manager">
+        <img src="https://img.shields.io/badge/📟%20TERMINUS-CLI%20Manager-orange?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <strong>SysAdmin Interface</strong>
+      <br/>
+      A végső parancssori vezérlőpult (TUI). Docker konténerek, Systemd service-ek és hálózat kezelése egy interaktív menüből.
+      <br/><br/>
+      <code>Python</code> <code>TUI</code> <code>Docker</code>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/aaron-devop/vps-sentinel-v1.0">
+        <img src="https://img.shields.io/badge/🛡️%20SENTINEL-Auditor-green?style=for-the-badge" />
+      </a>
+      <br/><br/>
+      <strong>Security & Audit</strong>
+      <br/>
+      Könnyűsúlyú VPS monitorozó és biztonsági auditáló script. JSON riportokat készít a szerver állapotáról.
+      <br/><br/>
+      <code>Python</code> <code>Security</code> <code>Audit</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,8 +93,5 @@ I am currently working on **Game Server WebAdmins** and creating useful automati
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
-
-
-</p>
 
 </div>
