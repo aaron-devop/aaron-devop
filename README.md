@@ -92,6 +92,19 @@ I am currently working on **Game Server WebAdmins** and creating enterprise-grad
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
----
+</div>
+<div align="center">
+
+<hr />
+
+<img src="https://img.shields.io/badge/COPYRIGHT-©%202025%20Aaron--DevOp-red?style=for-the-badge&logo=github" alt="Copyright" />
+<img src="https://img.shields.io/badge/RIGHTS-ALL%20RESERVED-red?style=for-the-badge" alt="All Rights Reserved" />
+
+<br /><br />
+
+<b>⚠️ NOTICE</b><br />
+The layout, design, and content of this profile are my intellectual property.<br />
+<i>Please do not copy, clone, or reproduce this README without explicit permission.</i>
 
 </div>
+<br />
